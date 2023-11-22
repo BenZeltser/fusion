@@ -97,7 +97,7 @@ nav ul li a:hover::before {
 .col h1 {
     margin-top: 180px;
     font-size: 40px;
-    font-weight: 550;
+    font-weight: 700;
 }
 
 .col a{
@@ -106,4 +106,8 @@ nav ul li a:hover::before {
     border-radius: 30px;
     background: #d9f688;
     display: inline-block;
+    color: black;
+    font-weight: 550;
+    margin-top: 70px;
+    box-shadow: 5px 8px 10px rgba(0,0,0,0.1);
 }
